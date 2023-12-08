@@ -1,0 +1,19 @@
+.planScreen_Plan{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: .8;
+
+}
+.planScreen_Plan :hover{
+    opacity: 1;
+}
+.planScreen_Plan button{
+    font-size: 1rem;
+    padding: 10px 20px;
+    color: #fff;
+    margin-left: 100px;
+    background-color: #e50914;
+    border: none;
+    cursor: pointer;
+}
